@@ -3,10 +3,12 @@ public class Main {
         HolaMon();
     }
 
+    //Comentari d'aclaració
     static void HolaMon(){
         System.out.println("Hola mon!");
     }
 
+    //Comentari d'aclaració
     static void AdeuMon(){
         System.out.println("Adeu mon!");
     }
