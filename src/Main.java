@@ -6,4 +6,8 @@ public class Main {
     static void HolaMon(){
         System.out.println("Hola mon!");
     }
+
+    static void AdeuMon(){
+        System.out.println("Adeu mon!");
+    }
 }
